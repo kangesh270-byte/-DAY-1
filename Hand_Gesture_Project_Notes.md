@@ -45,6 +45,7 @@ pip install pyserial
 
 ## Architecture
 ```text
+-----------------------------
 User
  │
  ▼
@@ -74,7 +75,7 @@ Relay Module
  ▼
 Light / Fan
 ```
-
+---------------------------
 ## Working Procedure
 1. Open webcam.
 2. Capture live frames.
