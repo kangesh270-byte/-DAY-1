@@ -74,7 +74,6 @@ Relay Module
  │
  ▼
 Light / Fan
-```
 ---------------------------
 ## Working Procedure
 1. Open webcam.
