@@ -8,7 +8,7 @@ AI-Based Hand Gesture Controlled Smart Home Automation Using Python and Arduino
 2. Python (OpenCV + MediaPipe) recognizes hand gestures.
 3. Commands are sent to Arduino/ESP32 through Serial/Wi-Fi.
 4. Arduino controls appliances through a relay module.
-
+5. 
 ## Objective
 - Touch-free home automation
 - Real-time gesture recognition
